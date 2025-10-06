@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Antonio, a Computer Science graduate and former Division I & professional swimmer passionate about software development, problem-solving, and continuous learning. I enjoy building clean, efficient, and impactful solutions.<br><br>My goals are: Gain hands-on experience through volunteer or open-source work,<br><br>Build scalable, meaningful projects that solve real-world problems,<br><br>and learn from mentors and contribute to innovative engineering teams.
+Hi, I’m Antonio, a Computer Science graduate and former Division I & professional swimmer passionate about software development, problem-solving, and continuous learning. I enjoy building clean, efficient, and impactful solutions.<br><br>My goals are:<br><br> Gain hands-on experience through volunteer or open-source work,<br><br>Build scalable, meaningful projects that solve real-world problems,<br><br>and learn from mentors and contribute to innovative engineering teams.
 
 
 ## 🌐 Socials:
